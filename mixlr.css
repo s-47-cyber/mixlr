@@ -455,10 +455,10 @@ footer{
     flex-direction: column
 }
 footer>img{
-    height: 200px;
+    height: 170px;
     width: 8%;
     text-align: center;
-    display: flex;
+    display: flex;              
     align-self: center;
     margin-top: 7%;
 }
